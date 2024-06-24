@@ -1,0 +1,13 @@
+package com.apac.springboot.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "wiki")
+public class WikimediaData {
+	
+	private Long id;
+	private String wikiEventData;
+
+}

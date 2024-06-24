@@ -1,0 +1,13 @@
+package com.apac.springboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WikimediaProducerMultiModeProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WikimediaProducerMultiModeProjectApplication.class, args);
+	}
+
+}

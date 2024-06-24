@@ -1,0 +1,8 @@
+package com.apac.wikimedia_producer_multi_mode;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class KafkaTopicConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.apac.wikimedia_producer_multi_mode;
+
+public class KafkaTopicConfig {
+
+}

@@ -1,0 +1,6 @@
+package com.apac.springboot;
+
+
+public class WikimediaChangesHandler extends EventHandler {
+
+}

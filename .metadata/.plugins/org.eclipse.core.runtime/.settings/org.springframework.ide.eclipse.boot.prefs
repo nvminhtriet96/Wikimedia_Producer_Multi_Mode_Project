@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.kafka=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=wikimedia-producer-multi-mode
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.3.0
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Wikimedia Producer Multi Mode Project For Spring Boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.apac
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=Wikimedia_Producer_Multi_Mode_Project
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.apac.wikimedia-producer-multi-mode
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.0.0
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
